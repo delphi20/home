@@ -93,14 +93,14 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
+    { name: "Python", value: 50 },
+    { name: "SQL", value: 35 },
+    { name: "Data Structures", value: 40 },
     { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
+    { name: "JavaScript", value: 70 },
     { name: "React", value: 65 },
     { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "C#", value: 30 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -119,8 +119,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I am aiming to work on small scale front-end development projects, as well as shopify stores and shopify theme development. you can reach me at",
+  email: "naimshahid2002@gmail.com",
 };
 
 const experiences = {
