@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "",
     },
     {
       image: "fa-linkedin",
@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:"I am Naim Shahid. Learning, working and creating in the fields of web development, AI and cybersecurity. ",
   resume:
-    "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "",
 };
 
 // PROJECTS SECTION
